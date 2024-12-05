@@ -1,3 +1,4 @@
 public class diet {
-    changing my diet 
+    int age;
+    
 }
