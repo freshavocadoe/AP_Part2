@@ -1,3 +1,3 @@
 public class diet {
-    xvzvxdsa
+    hi queen
 }
